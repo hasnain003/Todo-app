@@ -1,0 +1,14 @@
+hr {
+	border: none;
+	height: 3px;
+	color: #222;
+	background-color: #333;
+}
+.container {
+	border:2px double #ddd;
+	box-shadow: 0 5px 12px #ccc;
+	padding:10px;
+  	margin:auto;
+  	background:#fffff0;
+	width:420px;
+}
